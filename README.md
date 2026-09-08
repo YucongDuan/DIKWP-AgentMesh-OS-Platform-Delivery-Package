@@ -1,5 +1,7 @@
 # DIKWP-AgentMesh OS Platform Delivery Package
 
+Created by Yucong Duan (段玉聪).
+
 A concrete platform package for multi-agent group collaboration, inspired by DIKWP semantic governance, evidence ledgers, role permissions, and offline prototype patterns.
 
 ## Quick Start
